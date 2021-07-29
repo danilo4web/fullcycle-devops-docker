@@ -39,7 +39,7 @@ docker rmi ubuntu
 ```
 
 
-###Builder images:
+### Builder images:
 file: Dockerfile
 ```
 FROM nginx:latest
